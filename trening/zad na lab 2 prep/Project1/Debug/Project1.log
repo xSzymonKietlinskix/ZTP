@@ -1,0 +1,9 @@
+﻿  zad2.cpp
+C:\Users\iemhs9\Desktop\Notatki\UKSW\ztp\trening\zad na lab 2 prep\Project1\zad2.cpp(18,70): warning C4244: "=": konwersja z "_Rep" do "int", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\iemhs9\Desktop\Notatki\UKSW\ztp\trening\zad na lab 2 prep\Project1\zad2.cpp(33,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\iemhs9\Desktop\Notatki\UKSW\ztp\trening\zad na lab 2 prep\Project1\zad2.cpp(29): warning C4715: "losuj”: niewszystkie ścieżki kodu zwracają wartość
+  Project1.vcxproj -> C:\Users\iemhs9\Desktop\Notatki\UKSW\ztp\trening\zad na lab 2 prep\Project1\Debug\Project1.exe
